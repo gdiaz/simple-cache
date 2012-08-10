@@ -1,3 +1,4 @@
+(function(){  
   var Cache = function(key) {
     this.key = key;
     
@@ -15,3 +16,4 @@
   };
 
   return Cache;
+})();

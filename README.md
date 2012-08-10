@@ -1,7 +1,7 @@
 simple-cache
 ============
 
-Backbone Simple Cache in localStorage
+Javascript Simple Cache in localStorage
 
 
 License
